@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+    <![CDATA[
+const ${1:newArray} = [...${2:originalArray}]
+]]>
+</content>
+  <tabTrigger>spread</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

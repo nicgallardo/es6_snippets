@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
+fetch(${1:url}).then(data => data.json()).then(data => console.log('data :\n', data))
+]]>
+</content>
+  <tabTrigger>fetcher</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

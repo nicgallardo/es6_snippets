@@ -1,0 +1,20 @@
+<snippet>
+  <content>
+    <![CDATA[
+const p = new Promise((resolve, reject) => {
+  resolve(${1:somthing})
+  reject(${2:error})
+})
+
+p
+  .then(data => {
+    console.log(data)
+  })
+  .catch(err => {
+    console.error('Err:', error);
+  })
+]]>
+</content>
+  <tabTrigger>promise structure</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

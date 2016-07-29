@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+    <![CDATA[
+[${3:/*swaps variable assignments*/
+//let a = 1;
+//let b = 3;}]
+[${1:a}, ${2:b}] = [${2:b}, ${1:a}];
+]]>
+</content>
+  <tabTrigger>swap</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

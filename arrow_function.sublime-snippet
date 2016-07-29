@@ -1,0 +1,11 @@
+<snippet>
+  <content>
+    <![CDATA[
+let ${1:functionName} = (${2:params}) => {
+  ${3:Do Somthing}
+}
+    ]]>
+</content>
+  <tabTrigger>arrow</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

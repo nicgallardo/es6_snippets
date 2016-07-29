@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
+import ${1:importSomething} from '${1:importSomething}';
+]]>
+</content>
+  <tabTrigger>import npm</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

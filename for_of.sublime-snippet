@@ -1,0 +1,11 @@
+<snippet>
+  <content>
+    <![CDATA[
+for (let ${2:value} of ${1:values}) {
+  ${2:value} //do something
+}
+]]>
+</content>
+  <tabTrigger>for..of</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

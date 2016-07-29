@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+    <![CDATA[
+const [${1:firstConst}, ${2:secondConst}] = ${3:someArray}
+]]>
+</content>
+  <tabTrigger>destruct array</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

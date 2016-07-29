@@ -1,0 +1,17 @@
+<snippet>
+  <content>
+    <![CDATA[
+try {
+  ${1:'try something'}
+}
+catch (err) {
+  console.error("Error: ${2:custom err string}", err);
+}
+finally {
+  ${3:f'inally do something'}
+}
+]]>
+</content>
+  <tabTrigger>try catch finally</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

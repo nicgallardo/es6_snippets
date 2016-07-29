@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+    <![CDATA[
+console.error('Err: ${1:info}', ${2:error variable})
+]]>
+</content>
+  <tabTrigger>error log</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

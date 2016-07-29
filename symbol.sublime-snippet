@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
+const ${1:constName} = Symbol(${2:'symbol name'})
+]]>
+</content>
+  <tabTrigger>symbol</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

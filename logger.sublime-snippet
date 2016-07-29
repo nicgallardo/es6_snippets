@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+    <![CDATA[
+console.log('${1:logger} ${2:additional data}\n', ${1:logger})
+]]>
+</content>
+  <tabTrigger>logger</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
