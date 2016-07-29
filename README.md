@@ -8,5 +8,5 @@ Sublime Text Editor 2 / 3
 >I have found the easiest way to install snippets is by cloning this repo into your folder. 
 ####Directions
 1. In your terminal/CLI go to route by type *~* and enter. 
-2. On my mac my path is as follows I *cd Library/Application\ Support/Sublime\ Text\ 3/Packages/User*.
+2. On my mac my path is as follows *cd Library/Application\ Support/Sublime\ Text\ 3/Packages/User*.
 3. Now clone this repo directly into this folder. 
